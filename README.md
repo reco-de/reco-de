@@ -1,5 +1,7 @@
 # 💫 About Me:
-24 yaşında genç bir Otomotiv Mühendisiyim. <br>Şuan C# ve Unity Oyun Motorunu öğrenmekteyim.<br>Güzel projeler yapacağıma inanıyorum :)
+I am a 24 year old young Automotive Engineer.
+I am currently learning C# and Unity Game Engine.
+I believe I will make good projects :)
 
 
 ## 🌐 Socials:
