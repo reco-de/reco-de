@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 24 year old young Automotive Engineer.
+I am a 24 year old, Automotive Engineer.
 I am currently learning C# and Unity Game Engine.
 I believe I will make good projects :)
 
